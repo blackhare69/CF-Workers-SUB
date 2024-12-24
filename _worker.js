@@ -12,8 +12,15 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/trojan.txt
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+https://cm.spia.us.kg/blackhare?b64
+vless://0b198cd0-6b1f-4c90-9370-9e9b2ffbddeb@3x.spiaie.uk:39090?type=tcp&security=reality&pbk=a-6wAymH-9bq4Md3vCn5_sk-B8cfReA7QqGinJ44GCs&fp=random&sni=yahoo.com&sid=13f5fb49a9c7&spx=%2F#zf9nkjbb
+vless://54b9ef38-9732-43e9-b051-61c38e6ee8ac@3x.spiaie.uk:52753?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1#osu6zk0s
+vless://0ec16117-856e-4558-9775-84be0aff74ab@3x.spiaie.uk:10130?type=ws&path=%2Fblasd&host=&security=tls&fp=&alpn=#fzxd1t5k
+http://c.blackhareworkspace.uk:2096/sub/BZw700Uy
+https://a.spiaie.uk:15382/s/default/9b1df0c0cf7e9fa6645ddc1a15f29500
+https://aws.spiaie.uk:33872/s/default/9fd1f017667f9fd70bcc0e3a4a2e44df
+https://cm.spia.us.kg/blackhare?proxyip=proxyip.us.fxxk.dedyn.io:443&?sub=VLESS.fxxk.dedyn.io
+https://cm.spia.us.kg/blackhare?proxyip=proxyip.Oracle.fxxk.dedyn.io:443
 `
 
 let urls = [];
